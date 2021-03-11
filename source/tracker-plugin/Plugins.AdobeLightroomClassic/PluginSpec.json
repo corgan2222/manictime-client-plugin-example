@@ -1,0 +1,9 @@
+﻿{
+  "Id": "ManicTime.DocumentTracker.AdobeLightroomClassic",
+  "Version": "4.5.0.0",
+  "Type": "DocumentTracker",
+  "AssemblyName": "Plugins.AdobeLightroomClassic.dll",
+  "Name": "Document timeline: Adobe Lightroom Classic",
+  "Description": "Get file name from window title",
+  "MinHostVersion": "4.5"
+}
