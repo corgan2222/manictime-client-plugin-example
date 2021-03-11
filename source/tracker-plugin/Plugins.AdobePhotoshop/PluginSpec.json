@@ -1,0 +1,9 @@
+﻿{
+  "Id": "ManicTime.DocumentTracker.AdobePhotoshop",
+  "Version": "4.5.0.0",
+  "Type": "DocumentTracker",
+  "AssemblyName": "Plugins.AdobePhotoshop.dll",
+  "Name": "Document timeline: AdobePhotoshop",
+  "Description": "Get file name from window title",
+  "MinHostVersion": "4.5"
+}
