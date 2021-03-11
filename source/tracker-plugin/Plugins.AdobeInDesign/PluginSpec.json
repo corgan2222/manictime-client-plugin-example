@@ -1,0 +1,9 @@
+﻿{
+  "Id": "ManicTime.DocumentTracker.AdobeInDesign",
+  "Version": "4.5.0.0",
+  "Type": "DocumentTracker",
+  "AssemblyName": "Plugins.AdobeInDesign.dll",
+  "Name": "Document timeline: AdobeInDesign",
+  "Description": "Get file name from window title",
+  "MinHostVersion": "4.5"
+}
