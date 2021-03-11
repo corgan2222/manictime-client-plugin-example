@@ -1,0 +1,9 @@
+﻿{
+  "Id": "ManicTime.DocumentTracker.AdobeAfterEffects",
+  "Version": "4.5.0.1",
+  "Type": "DocumentTracker",
+  "AssemblyName": "Plugins.AdobeAfterEffects.dll",
+  "Name": "Document timeline: After Effects",
+  "Description": "Get active After Effects Project",
+  "MinHostVersion": "4.5"
+}
