@@ -1,0 +1,9 @@
+﻿{
+  "Id": "ManicTime.DocumentTracker.AdobePremiere",
+  "Version": "4.5.0.0",
+  "Type": "DocumentTracker",
+  "AssemblyName": "Plugins.AdobePremiere.dll",
+  "Name": "Document timeline: AdobePremiere",
+  "Description": "Get file name from window title",
+  "MinHostVersion": "4.5"
+}
